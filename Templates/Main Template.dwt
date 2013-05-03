@@ -12,16 +12,21 @@
 
 <body>
 	<div class="wrapper">
-		<div class="navigation">
-			<p>Navigation will go here</p>
-		</div>
-		<!-- TemplateBeginEditable name="Content" -->
+		<img src="../images/banner.jpg" width="950" height="280" alt="osteosarcoma" />
+		<ul class="navigation">
+			<li><a href="../index.html">About Osteosarcoma</a></li>
+			<li><a href="../symptoms.html">Symptoms</a></li>
+			<li><a href="../diagnosis.html">Diagnosis</a></li>
+			<li><a href="../treatment.html">Treatment</a></li>
+			<li><a href="../dedication.html">Dedication</a></li>
+		</ul>
 		<div class="content">
-			<p>Content will go here</p>
-		</div>
-		<!-- TemplateEndEditable -->
-		<div class="footer">
-			<p>footer will go here</p>
+			<h1>Osteosarcoma</h1>
+			<div class="main">
+				<!-- TemplateBeginEditable name="Content" -->
+				<p>Place holder</p>
+				<!-- TemplateEndEditable -->
+			</div>
 		</div>
 	</div>
 </body>
